@@ -1,3 +1,3 @@
 # sample-git-repo
 
-Some description
+Some description!
